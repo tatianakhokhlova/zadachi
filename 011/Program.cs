@@ -1,4 +1,6 @@
-﻿int Number  = new Random().Next(1, 5000);
+// Найти третью цифру числа или сообщить, что её нет
+
+int Number  = new Random().Next(1, 5000);
 System.Console.WriteLine();
 System.Console.WriteLine($"число: {Number}");
 

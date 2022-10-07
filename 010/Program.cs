@@ -1,4 +1,6 @@
-﻿Console.WriteLine ("ВВедите первое число");
+// Выяснить, кратно ли число заданному, если нет, вывести остаток.
+
+Console.WriteLine ("ВВедите первое число");
 string str = Console.ReadLine();
 int a = Convert.ToInt32(str);
 Console.WriteLine ("ВВедите второе число");

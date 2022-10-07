@@ -1,4 +1,6 @@
-﻿Console.Clear();
+// Выяснить является ли число чётным
+
+Console.Clear();
 
 int a;
 Console.WriteLine("Введите число: ");

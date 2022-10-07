@@ -1,4 +1,6 @@
-﻿RandomR  = new Random();
+// Удалить вторую цифру трёхзначного числа
+
+RandomR  = new Random();
 int = = RandomR.Next(100, 999);
 Console.WriteLine(value);
 string = = .ToString(value);

@@ -1,4 +1,6 @@
-﻿int number = new Random().Next(10, 99);
+// Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
+
+int number = new Random().Next(10, 99);
 int max = 0;
 int maxDigit()
 {

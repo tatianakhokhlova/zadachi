@@ -1,3 +1,5 @@
-﻿Console.WriteLine("Введите трехзначное число");
+// Показать последнюю цифру трёхзначного числа
+
+Console.WriteLine("Введите трехзначное число");
 string str = Console.ReadLine();
 Console.WriteLine(str[2]);
